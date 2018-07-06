@@ -1,0 +1,53 @@
+palaroid{
+      position: relative;
+}
+.polaroid img {
+      display: block;
+      margin: 0 auto;
+      border: 15px solid #fafafa;
+      border-top-width: 15px;
+      border-bottom-width: 50px;
+      bkit-box-shadow: 3px 3px 6px 4px #888;
+      -moz-box-shadow: 3px 3px 6px 4px #888;
+      box-shadow: 3px 3px 6px 4px #888;
+      width:20%;
+      
+}
+
+.list{
+list-style: none;
+padding: 0;
+} 
+.list li
+{
+
+padding: 10px 30px;
+background: linear-gradient(to left, #FFC0CB 0%, white, #FFC0CB);
+border-bottom: 1px solid grey;
+color: #506a6b;
+font-size: 20px;
+box-shadow: 0 5px 5px 0 rgba(0,0,0, .2);
+margin-bottom: 5px;
+/*width: 30%;*/
+}
+.wrapper {
+	max-width:500px;
+	margin:auto;
+}
+.social
+{ width:500px; 
+	background:#00FFFF;
+	font-size: 20px;}
+h1{
+	text-align: center;
+	background-color: white;
+
+}	
+h2 {
+	padding: 20px;
+	text-align: left;
+	}
+body {
+
+	background-color: lightgrey;
+}
